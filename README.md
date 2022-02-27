@@ -1,2 +1,2 @@
 # LeetCoder
-## This is a record of my problem solving journey.
+## This is a record of my leetcode problem solving journey.
